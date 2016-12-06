@@ -21,7 +21,7 @@ Usage
 -----
 
 ### Startup
-	$ git clone https://github.com/pchec/vagrant-lamp
+	$ git clone https://github.com/SEAN-KR/vagrant-lamp.git
 	$ cd vagrant-lamp
 	$ vagrant up
 
