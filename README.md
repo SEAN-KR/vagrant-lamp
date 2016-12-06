@@ -30,15 +30,15 @@ That is pretty simple.
 ### Connecting
 
 #### Apache
-The Apache server is available at <http://localhost:8888>
+The Apache server is available at <http://localhost:8088>
 
 #### MySQL
-Externally the MySQL server is available at port 8889, and when running on the VM it is available as a socket or at port 3306 as usual.
+Externally the MySQL server is available at port 3306, and when running on the VM it is available as a socket or at port 3306 as usual.
 Username: root
 Password: root
 
 #### Phpmyadmin
-You can access `phpmyadmin` at <http://localhost:8888/phpmyadmin>
+You can access `phpmyadmin` at <http://localhost:8088/phpmyadmin>
 
 #### Composer
 Composer is a php dependency manager. It is installed globally, so you can use it in any of your projects by typing `composer`.
