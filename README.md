@@ -62,3 +62,8 @@ The web root is located in the project directory at `src` and you can install yo
 And like any other vagrant file you have SSH access with
 
 	$ vagrant ssh
+
+
+## 빌드된 이미지
+
+https://drive.google.com/drive/folders/0B-y5Szi9BBVFS0NHS29TQ2d1elk?usp=sharing
